@@ -1,0 +1,11 @@
+operator:
+    address: 0xf213868465f78300df6eb4fb64073341ddcc8280
+    earnings_receiver_address: 0x42C137538bEe9d7eca612b41A807b5FB7B863C20
+    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    staker_opt_out_window_blocks: 0
+    metadata_url: "https://raw.githubusercontent.com/ThomasErhel/eigenlayer-operator/main/metadata.json"
+el_delegation_manager_address: 0x1b7b8F6b258f95Cf9596EabB9aa18B62940Eb0a8
+eth_rpc_url: https://ethereum-goerli.publicnode.com
+private_key_store_path: /Users/monproweb/.eigenlayer/operator_keys/monproweb-el-test.ecdsa.key.json
+signer_type: local_keystore
+chain_id: 5
